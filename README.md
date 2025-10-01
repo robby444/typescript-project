@@ -1,1 +1,1 @@
-# typescript-project
+# Репозиторій для проекту на TypeScript.
